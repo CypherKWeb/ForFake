@@ -124,7 +124,7 @@ async def not_joined(client: Client, message: Message):
         [
             InlineKeyboardButton(
                 "⛩️ Ｃʜᴀɴɴᴇʟ 1 ⛩️",
-                url = f"https://t.me/Anime_Cypher"),
+                url = f"https://t.me/UnVerb"),
             InlineKeyboardButton(
                 "⛩️ Ｃʜᴀɴɴᴇʟ 2 ⛩️",
                 url = client.invitelink)
